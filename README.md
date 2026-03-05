@@ -1,6 +1,6 @@
 # 🪟 Komorebi Configuration
 
-Configuration I use in Komorebi when using Windows 11
+Configuration I use in [Komorebi](https://github.com/LGUG2Z/komorebi) when using Windows 11
 
 # komorebi.json
 
@@ -59,7 +59,7 @@ Configuration I use in Komorebi when using Windows 11
 }
 ```
 
-# whkdrc
+# [whkdrc](https://github.com/LGUG2Z/whkd)
 
 ```plain text
 
@@ -119,3 +119,23 @@ alt + shift + 1         : komorebic move-to-workspace 0
 alt + shift + 2         : komorebic move-to-workspace 1
 alt + shift + 3         : komorebic move-to-workspace 2
 ```
+
+### Additional app to know which Desktop I'm on if I need to use Komerebi's native bar
+
+- [KomorebiTray](https://github.com/starise/komorebi-tray)
+
+### Commands used in the terminal after installation: 
+
+```bash
+
+komorebic start --whkd 
+```
+
+```bash
+
+komorebic enable-autostart
+```
+
+### Detailed installation here: 
+
+- [](https://lgug2z.github.io/komorebi/installation.html)
