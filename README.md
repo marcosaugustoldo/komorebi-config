@@ -138,4 +138,4 @@ komorebic enable-autostart
 
 ### Detailed installation here: 
 
-- [](https://lgug2z.github.io/komorebi/installation.html)
+- ["Getting started"](https://lgug2z.github.io/komorebi/installation.html)
